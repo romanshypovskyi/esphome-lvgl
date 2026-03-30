@@ -21,4 +21,4 @@ lvgl:
             height: 107
             text: "--:--"
             text_align: CENTER
-            text_font: clock_font
+            text_font: label_font
