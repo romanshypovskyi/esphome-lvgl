@@ -2,39 +2,11 @@ lvgl:
   displays: my_display
   byte_order: little_endian
 
-  top_layer:
-    widgets:
-    
-      # Temperature
-      - label:
-          text: "-° / -°"
-          id: temperatures
-          text_font: clockbar_font
-          align: top_left
-          x: 8
-          y: 8
-          text_color: 0xFFFFFF
-
-      # Clock
-      - label:
-          text: "--:--"
-          id: display_time
-          text_font: clockbar_font
-          align: top_mid
-          x: 0
-          y: 8
-          text_align: center
-          text_color: 0xFFFFFF
-
   pages:
     - id: main_page
       width: 100%
       bg_color: Black
       bg_opa: cover
-      pad_top: 42
-      pad_bottom: 5
-      pad_left: 5
-      pad_right: 5
 
       widgets:
         - label:
