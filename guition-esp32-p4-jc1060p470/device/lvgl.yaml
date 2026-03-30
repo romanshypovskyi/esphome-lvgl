@@ -23,5 +23,5 @@ lvgl:
             height: 107
             text: "--:--"
             text_align: CENTER
-            text_font: montserrat_80
+            text_font: label_font
             text_line_space: 0
