@@ -2,7 +2,7 @@ lvgl:
   displays: my_display
   byte_order: little_endian
 
-top_layer:
+  top_layer:
     widgets:
     
       # Temperature
