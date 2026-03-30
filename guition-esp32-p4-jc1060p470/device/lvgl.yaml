@@ -1,4 +1,7 @@
 lvgl:
+  displays: my_display
+  byte_order: little_endian
+
   pages:
     - id: main_page
       bg_color: Black
