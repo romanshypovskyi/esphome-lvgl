@@ -4,10 +4,15 @@ lvgl:
 
   pages:
     - id: main_page
+      width: 100%
       bg_color: Black
       bg_opa: cover
-      widgets:
+      pad_top: 5
+      pad_bottom: 5
+      pad_left: 5
+      pad_right: 5
 
+      widgets:
         - label:
             id: clock_label
             x: 10
