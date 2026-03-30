@@ -45,4 +45,4 @@ top_layer:
             height: 107
             text: "--:--"
             text_align: CENTER
-            text_font: label_font
+            text_font: clock_font
