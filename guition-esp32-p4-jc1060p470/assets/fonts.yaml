@@ -1,6 +1,11 @@
 # The styles below use these fonts, to change the font size, change the size here
 font:
   - file: "gfonts://Roboto"
+    id: clock_font
+    size: 80
+    bpp: 4
+
+  - file: "gfonts://Roboto"
     id: statistics_font
     size: 48
     bpp: 4
