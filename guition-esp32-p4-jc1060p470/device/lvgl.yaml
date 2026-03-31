@@ -97,3 +97,14 @@ lvgl:
             text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
+
+        - label:
+            id: eaqi_label
+            x: 0
+            y: 500
+            width: 340
+            height: 90
+            text: "EAQI: ---"
+            text_color: 0xFFFFFF
+            text_align: CENTER
+            text_font: sensors_font
