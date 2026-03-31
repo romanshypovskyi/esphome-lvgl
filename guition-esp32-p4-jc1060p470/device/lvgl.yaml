@@ -49,7 +49,7 @@ lvgl:
             y: 140
             width: 170
             height: 90
-            text: "--.-°C"
+            text: "--.-°"
             text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
@@ -60,7 +60,7 @@ lvgl:
             y: 140
             width: 170
             height: 90
-            text: "--.- %"
+            text: "--.-%"
             text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
