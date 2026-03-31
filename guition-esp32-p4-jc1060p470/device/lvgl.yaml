@@ -75,3 +75,14 @@ lvgl:
             text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
+
+        - label:
+            id: pm25_label
+            x: 0
+            y: 320
+            width: 340
+            height: 90
+            text: "PM2.5 --- µg/m³"
+            text_color: 0xFFFFFF
+            text_align: CENTER
+            text_font: sensors_font
