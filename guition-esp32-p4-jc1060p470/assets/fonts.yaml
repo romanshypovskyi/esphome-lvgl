@@ -7,7 +7,7 @@ font:
 
   - file: "gfonts://Roboto"
     id: sensors_font
-    size: 45
+    size: 50
     bpp: 4
 
   - file: "gfonts://Roboto"
