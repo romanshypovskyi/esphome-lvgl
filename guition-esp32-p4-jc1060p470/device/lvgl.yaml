@@ -86,3 +86,14 @@ lvgl:
             text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
+
+        - label:
+            id: pm10_label
+            x: 0
+            y: 410
+            width: 340
+            height: 90
+            text: "PM10: ---"
+            text_color: 0xFFFFFF
+            text_align: CENTER
+            text_font: sensors_font
