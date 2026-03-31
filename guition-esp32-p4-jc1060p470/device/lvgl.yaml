@@ -64,3 +64,14 @@ lvgl:
             text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
+
+        - label:
+            id: co2_label
+            x: 0
+            y: 230
+            width: 340
+            height: 90
+            text: "CO2 ---- ppm"
+            text_color: 0xFFFFFF
+            text_align: CENTER
+            text_font: sensors_font
