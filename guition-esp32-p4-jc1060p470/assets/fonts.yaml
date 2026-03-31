@@ -2,7 +2,12 @@
 font:
   - file: "gfonts://Roboto"
     id: clock_font
-    size: 80
+    size: 120
+    bpp: 4
+
+  - file: "gfonts://Roboto"
+    id: sensors_font
+    size: 45
     bpp: 4
 
   - file: "gfonts://Roboto"
