@@ -27,6 +27,7 @@ lvgl:
             width: 340
             height: 140
             text: "--:--"
+            text_color: 0xFFFFFF
             text_align: CENTER
             text_font: clock_font
             text_line_space: 0
@@ -49,6 +50,7 @@ lvgl:
             width: 170
             height: 90
             text: "--.-°C"
+            text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
 
@@ -59,5 +61,6 @@ lvgl:
             width: 170
             height: 90
             text: "--.- %"
+            text_color: 0xFFFFFF
             text_align: CENTER
             text_font: sensors_font
