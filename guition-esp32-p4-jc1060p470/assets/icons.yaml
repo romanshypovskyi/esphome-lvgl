@@ -4,7 +4,7 @@
 font:
   - file: "gfonts://Material+Symbols+Outlined"
     id: icons_font
-    size: 50
+    size: 48
     glyphs: [
       "\U0000e846", # thermometer
       "\U0000f87e", # humidity-percentage
