@@ -110,6 +110,17 @@ lvgl:
             text_font: sensors_font
 
         - label:
+            id: pm_icon
+            x: 0
+            y: 320
+            width: 340
+            height: 90
+            text: $snowing
+            text_color: 0xFFFFFF
+            text_align: LEFT
+            text_font: icons_font
+
+        - label:
             id: pm25_label
             x: 0
             y: 320
