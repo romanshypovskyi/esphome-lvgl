@@ -44,6 +44,17 @@ lvgl:
             radius: 8
 
         - label:
+            id: temperature_icon
+            x: 0
+            y: 140
+            width: 170
+            height: 90
+            text: thermometer
+            text_color: 0xFFFFFF
+            text_align: LEFT
+            text_font: icon_font
+
+        - label:
             id: temperature_label
             x: 0
             y: 140
@@ -53,6 +64,17 @@ lvgl:
             text_color: 0xFFFFFF
             text_align: RIGHT
             text_font: sensors_font
+
+        - label:
+            id: humidity_icon
+            x: 170
+            y: 140
+            width: 170
+            height: 90
+            text: water_percent
+            text_color: 0xFFFFFF
+            text_align: LEFT
+            text_font: icon_font
 
         - label:
             id: humidity_label
