@@ -52,7 +52,7 @@ lvgl:
             text: $thermometer
             text_color: 0xFFFFFF
             text_align: LEFT
-            text_font: icon_font
+            text_font: icons_font
 
         - label:
             id: temperature_label
@@ -71,10 +71,10 @@ lvgl:
             y: 140
             width: 170
             height: 90
-            text: $water_percent
+            text: $humidity_percentage
             text_color: 0xFFFFFF
             text_align: LEFT
-            text_font: icon_font
+            text_font: icons_font
 
         - label:
             id: humidity_label
