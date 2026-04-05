@@ -10,7 +10,7 @@ font:
       "\U000F058D",  # water-off
       "\U000F058E",  # water-percent
       "\U000F050F",  # thermometer
-      "\U000F0093",  # chemical-weapon
+      "\U000F013B",  # chemical-weapon
       "\U000F001B",  # flask
       "\U000F0093",  # air-conditioner
       "\U000F0335",  # mdi-lightbulb
@@ -35,7 +35,7 @@ substitutions:
   water_off:      "\U000F058D"
   water_percent:  "\U000F058E"
   thermometer:    "\U000F050F"
-  chemical_weapon: "\U000F0093"
+  chemical_weapon: "\U000F013B"
   flask:          "\U000F0093"
   air_conditioner: "\U000F001B"
   lightbulb:      "\U000F0335"
