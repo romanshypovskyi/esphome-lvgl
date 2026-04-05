@@ -51,7 +51,7 @@ lvgl:
             height: 90
             text: "--.-°"
             text_color: 0xFFFFFF
-            text_align: LEFT
+            text_align: RIGHT
             text_font: sensors_font
 
         - label:
