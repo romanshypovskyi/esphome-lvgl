@@ -8,6 +8,7 @@ font:
     glyphs: [
       "\U0000e846", # thermometer
       "\U0000f87e", # humidity-percentage
+      "\U0000e7b0", # co2
       ]
   
   - file: 'https://github.com/Templarian/MaterialDesign-Webfont/raw/v7.4.47/fonts/materialdesignicons-webfont.ttf'
@@ -39,8 +40,9 @@ font:
 # Map icons to names
 substitutions:
   water_off:      "\U000F058D"
-  humidity_percentage:  "\U0000f87e"
   thermometer:    "\U0000e846"
+  humidity_percentage:  "\U0000f87e"
+  co2:            "\U0000e7b0"
   chemical_weapon: "\U000F013B"
   flask:          "\U000F0093"
   air_conditioner: "\U000F001B"
