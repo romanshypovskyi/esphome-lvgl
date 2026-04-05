@@ -49,7 +49,7 @@ lvgl:
             y: 140
             width: 170
             height: 90
-            text: thermometer
+            text: $thermometer
             text_color: 0xFFFFFF
             text_align: LEFT
             text_font: icon_font
@@ -71,7 +71,7 @@ lvgl:
             y: 140
             width: 170
             height: 90
-            text: water_percent
+            text: $water_percent
             text_color: 0xFFFFFF
             text_align: LEFT
             text_font: icon_font
