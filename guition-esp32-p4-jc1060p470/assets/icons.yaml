@@ -2,14 +2,20 @@
 
 # Define icons used
 font:
+  - file: "gfonts://Material+Symbols+Outlined"
+    id: icons_font
+    size: 50
+    glyphs: [
+      "\U0000e846", # thermometer
+      "\U0000f87e", # humidity-percentage
+      ]
+  
   - file: 'https://github.com/Templarian/MaterialDesign-Webfont/raw/v7.4.47/fonts/materialdesignicons-webfont.ttf'
     id: icon_font
     size: 48
     bpp: 8
     glyphs: [
       "\U000F058D",  # water-off
-      "\U000F058E",  # water-percent
-      "\U000F050F",  # thermometer
       "\U000F013B",  # chemical-weapon
       "\U000F001B",  # flask
       "\U000F0093",  # air-conditioner
@@ -33,8 +39,8 @@ font:
 # Map icons to names
 substitutions:
   water_off:      "\U000F058D"
-  water_percent:  "\U000F058E"
-  thermometer:    "\U000F050F"
+  humidity_percentage:  "\U0000f87e"
+  thermometer:    "\U0000e846"
   chemical_weapon: "\U000F013B"
   flask:          "\U000F0093"
   air_conditioner: "\U000F001B"
