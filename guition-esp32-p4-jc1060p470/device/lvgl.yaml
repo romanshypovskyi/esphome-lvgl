@@ -49,7 +49,7 @@ lvgl:
             y: 140
             width: 170
             height: 90
-            text: $thermometer
+            text: $temperature_glyph
             text_color: 0xFFFFFF
             text_align: LEFT
             text_font: icons_font
