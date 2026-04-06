@@ -6,7 +6,7 @@ font:
     id: icons_font
     size: 48
     glyphs: [
-      "\U0000e846", # thermometer
+      "\U0000e1ff", # thermometer
       "\U0000f87e", # humidity-percentage
       "\U0000e7b0", # co2
       "\U0000e80f", # snowing
@@ -41,7 +41,7 @@ font:
 # Map icons to names
 substitutions:
   water_off:      "\U000F058D"
-  thermometer:    "\U0000e846"
+  temperature_glyph:    "\U0000e1ff"
   humidity_percentage:  "\U0000f87e"
   co2:            "\U0000e7b0"
   snowing:        "\U0000e80f"
