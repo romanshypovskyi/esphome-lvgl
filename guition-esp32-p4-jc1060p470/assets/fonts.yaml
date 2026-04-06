@@ -1,11 +1,11 @@
 # The styles below use these fonts, to change the font size, change the size here
 font:
-  - file: "gfonts://Roboto"
+  - file: "gfonts://Montserrat"
     id: clock_font
     size: 120
     bpp: 4
 
-  - file: "gfonts://Roboto"
+  - file: "gfonts://Montserrat"
     id: sensors_font
     size: 48
     bpp: 4
