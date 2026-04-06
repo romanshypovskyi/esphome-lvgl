@@ -9,6 +9,8 @@ font:
     id: sensors_font
     size: 48
     bpp: 4
+    glyphsets:
+      - GF_Latin_Core
 
   - file: "gfonts://Roboto"
     id: statistics_font
