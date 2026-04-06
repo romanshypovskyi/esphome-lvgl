@@ -10,7 +10,8 @@ font:
     size: 48
     bpp: 4
     glyphsets:
-      - GF_Latin_Core
+      - GF_Latin_Kernel
+    glyphs: [µ,³]
 
   - file: "gfonts://Roboto"
     id: statistics_font
